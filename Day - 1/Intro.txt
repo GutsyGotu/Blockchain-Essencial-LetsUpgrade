@@ -1,0 +1,42 @@
+Q.1 
+What is Your Understanding of Blockchain?
+Ans.1 
+    A Blockchain is a constantly growing ledger that keeps a permanant records of all the transactions that have taken place in a secure, chronological and immutable way in decentralised distributed network.
+    A Blockchain is a chain of blocks and a block contain three things like Block Number, transactions and previous block signature.
+
+Q.2
+What is the core problem Blockchain trying to solve?
+Ans.2
+    The biggest problem is occured in 2008 global crisis as a story sai sir tell of Leman Bros.
+    The 3 problems with internet is 
+    1. Authenticity
+    2. Security
+    3. Need of powerful third party for trust
+
+Q.3
+What are few features that Blockchain gives you?
+Ans.3
+    The features are:
+    1. Verifiable
+    2. Unchangable
+    3. Temper - Proof
+    4. Immutable
+
+Q.4
+What all things does a Blockchain contains?
+ANs.4
+    A Blockchain contais n number of blocks.
+    Each block contains it's own three things
+    1. Block Number
+    2. Transactions
+    3. Previous Block Signature
+
+Q.5 
+How is the verifiability of Blockchain has been attained?
+Ans. 5
+    Let's take one scenario,
+    In which we are having daily assignments 
+    and each day there is new assignments
+    so whenever the new assignments arrives we store that assignments as follow condition:
+        the new assignment must contains previous assignments signature + it's own content and finally we shared new assignment signature.
+    Thus, all students sharing the same key if not than we have to tell that student to replace your data with correct key.
